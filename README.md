@@ -1,2 +1,1 @@
-# SignUp-UI
-Sign Up UI with gradient effect. All files in Zip folder
+Codepen pen Snippets. All files in Zip folder
